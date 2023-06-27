@@ -54,7 +54,6 @@ Please refer to the individual microservices' README files for more detailed ins
 
 * Node.js
 * Express.js
-* MongoDB 
 * MySQL
 * Git
 * Github
