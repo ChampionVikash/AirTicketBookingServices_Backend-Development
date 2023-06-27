@@ -15,8 +15,7 @@ GITHUB LINK FOR AirTicketBookingService : https://github.com/ChampionVikash/AirT
 The Auth Service is responsible for authentication and authorization within the application. It validates incoming requests for email and password, ensuring secure access to the booking functionalities. This service plays a crucial role in user authentication and protects sensitive data.
 
 ```
-GITHUB LINK FOR Auth_Service
- : https://github.com/ChampionVikash/Auth_Service
+GITHUB LINK FOR Auth_Service: https://github.com/ChampionVikash/Auth_Service
 ```
 
 ### Flights and Search Service
